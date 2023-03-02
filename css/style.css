@@ -1,0 +1,141 @@
+body{
+    font-family: 'Hanken Grotesk', sans-serif;
+    
+    margin-top:2%;
+}
+.container-fluid{
+    width: 60%;
+    padding: 5%;
+ 
+ }
+.first-holder{
+   border: 1px solid #fff;
+   background-image:linear-gradient(to bottom,#4565bc, #2d29a1) ;
+   border-radius: 10px;
+   line-height: 1.5;
+  
+}
+.second-holder{
+    border:1px solid #fff;
+    box-shadow: 10px 10px 15px #888888;
+    
+    
+    
+}
+.first-p{
+    font-size: normal;
+    color: grey;
+    font-weight: bold;
+    margin-top: 2rem;
+}
+
+.score{
+    border: 1px solid #4565bc;
+    border-radius: 50%;
+    width: 50%;
+    margin-left: 4rem ;
+    margin-right: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    color: #fff;
+    background-image:linear-gradient(to bottom,#4565bc, #2d29a1);
+    text-align: center;
+
+
+}
+
+.score h2{
+    font-weight: bold;
+    font-size: 5rem;
+   
+}
+h5{
+    color: white;
+    margin: 2rem auto 2rem auto;
+}
+.second-p{
+    color: grey;
+}
+.third-p{
+    color: grey;
+    margin:2rem auto 2rem auto ;
+}
+.fourth-p{
+    font-size: normal;
+    color: grey;
+    font-weight: bold;
+    margin-top: 2rem;
+}
+.button-one{
+    width: 95%;
+    background-color:  rgb(244, 235, 235);
+    border: white;
+    font-size: small;
+    color: black;
+    text-align: left;
+    margin:5px auto 15px auto;
+    font-weight: bold;
+}
+.first-w{
+    color:  rgb(255, 85, 85);
+    margin-right:30%;
+
+}
+.const{
+    color: grey;
+}
+.button-two{
+    width: 95%;
+    background-color:rgb(240, 237, 230)  ;
+    border: white;
+    font-size: small;
+    color: black;
+    text-align: left;
+    margin:5px auto 15px auto;
+    font-weight: bold;
+
+}
+.second-w{
+    color: rgb(255, 178, 30) ;
+    margin-right:30%;
+
+}
+.button-thr{
+    width: 95%;
+    background-color:rgb(226, 237, 234)  ;
+    border: white;
+    font-size: small;
+    color: black;
+    text-align: left;
+    margin:5px auto 15px auto;
+    font-weight: bold;
+}
+.third-w{
+    color: rgb(0, 187, 143) ;
+    margin-right:35%;
+
+}
+.button-fr{
+    width: 95%;
+    background-color: rgb(228, 229, 238)  ;
+    border: white;
+    font-size: small;
+    color: black;
+    text-align: left;
+    margin:5px auto 15px auto;
+    font-weight: bold;
+}
+.fr-w{
+    color:  rgb(17, 37, 214) ;
+    margin-right:37%;
+}
+.button-five{
+    width: 95%;
+    margin: 2rem 0 3rem 0;
+    border-radius: 25px;
+    padding: 10px;
+}
+.button-five:hover{
+    background-color: #2d29a1;
+}
